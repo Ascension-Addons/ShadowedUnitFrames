@@ -1,3 +1,3 @@
-# Addon Name
+# Shadowed Unit Frames
 
-This is the repository for <Addon Name>. Modified for Ascension.gg. 
+This is the repository for ShadowedUnitFrames. Modified for Ascension.gg. 
